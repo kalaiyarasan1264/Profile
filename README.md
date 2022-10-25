@@ -40,7 +40,9 @@ I am pursuing my B.Tech degree in Computer Science Engineering at SRM Institute 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalaiyarasan1264&show_icons=true&theme=dark&cache_seconds=1800&locale=en&layout=compact" alt="kalaiyarasan1264" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalaiyarasan1264&show_icons=true&theme=dark&cache_seconds=1800&locale=en" alt="kalaiyarasan1264" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalaiyarasan1264&show_icons=true&theme=dark&cache_seconds=1800&locale=en&layout=compact" alt="kalaiyarasan1264" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalaiyarasan1264&show_icons=true&theme=dark&cache_seconds=1800&locale=en" alt="kalaiyarasan1264" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalaiyarasan1264&theme=dark" alt="kalaiyarasan1264" /></p>
 
