@@ -3,14 +3,19 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2351B4F2&lines=I+am+a+Machine+Learning+Developer+!;A+Deep+learning+practitioner..;An+AI+enthusiast+..;A+programmer+!)](https://git.io/typing-svg)
 
-I am pursuing my B.Tech degree in Computer Science Engineering at SRM Institute of Science and Technology. I am very passionate about Machine & Deep Learning. I am always interested in learning and trying new concepts.
+I am pursuing my B.Tech degree in Computer Science Engineering at SRM Institute of Science and Technology. I am very passionate about Machine & Deep Learning. I am always interested in learning and trying new concepts.<br>
+<br>
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
+
 
 - 🔭 I’m currently working to develop deep knowledge in data science.
 
-- 💬 Ask me anything .., I'd love to help
+- 👯 I’m looking to collaborate on project for experience
 
 - 👨‍💻 Languages I primarily work on are Python and C++
 
+- 💬 Ask me anything .., I'd love to help
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalaiyarasan1264&label=Profile%20views&color=51b4f2&style=flat" alt="kalaiyarasan1264" /> </p>
 
 ## Skills
@@ -18,13 +23,13 @@ I am pursuing my B.Tech degree in Computer Science Engineering at SRM Institute 
 ### Languages
 <p float="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
 </p>
 
 ### Frameworks and libraries
@@ -47,12 +52,11 @@ I am pursuing my B.Tech degree in Computer Science Engineering at SRM Institute 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalaiyarasan1264&theme=dark" alt="kalaiyarasan1264" /></p>
 
 ### ✉️ Connect With Me<br>
-<p align="left">
-<a href="https://www.linkedin.com/in/kalaiyarasan1264/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-<a href="mailto:kalaiyarasan1264@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+<p align="left"><pre>
+<a href="https://www.linkedin.com/in/kalaiyarasan1264/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:kalaiyarasan1264@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
   
-  
-<a href="https://codesandbox.com/kalaiyarasan1264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="kalaiyarasan1264" height="30" width="40" /></a>   <a href="https://www.leetcode.com/kalaiyarasan_1264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kalaiyarasan_1264" height="30" width="40" /></a>  
+<br>
+    <a href="https://codesandbox.com/kalaiyarasan1264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="kalaiyarasan1264" height="30" width="40" /></a>         <a href="https://www.leetcode.com/kalaiyarasan_1264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kalaiyarasan_1264" height="30" width="40" /></a></pre>  
 </p>  
 
 
