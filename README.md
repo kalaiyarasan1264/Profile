@@ -1,7 +1,7 @@
 ![MasterHead](https://www.nuvias.com/wp-content/uploads/2019/09/github-banner.jpg)
 <h1 align="center">Hi 👋, I'm Kalaiyarasan S</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2351B4F2&lines=I+am+a+Machine+Learning+Developer+!;A+Deep+learning+practitioner..;An+AI+enthusiast+..;A+programmer+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2351B4F2&lines=I+am+a+Machine+Learning+learner+..;A+Deep+learning+practitioner..;An+AI+enthusiast+..;A+programmer+!)](https://git.io/typing-svg)
 
 I am pursuing my B.Tech degree in Computer Science Engineering at SRM Institute of Science and Technology. I am very passionate about Machine & Deep Learning. I am always interested in learning and trying new concepts.<br>
 <br>
